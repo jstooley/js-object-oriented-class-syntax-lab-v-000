@@ -13,7 +13,7 @@ class BoardMember {
     return "You can do that!"
   }
   releasePressStatement(){
-    
+    return "Ypu will see great things from Scuber."
   }
 
 }
