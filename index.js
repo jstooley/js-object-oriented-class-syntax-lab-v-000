@@ -12,6 +12,9 @@ class BoardMember {
   approve(){
     return "You can do that!"
   }
+  doCharity(){
+    return "I like to help people."
+  }
   releasePressStatement(){
     return "Ypu will see great things from Scuber."
   }
