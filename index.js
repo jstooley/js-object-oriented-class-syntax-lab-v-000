@@ -4,4 +4,6 @@ class BoardMember {
     this.homeState = homeState
     this.training = training
   }
+
+  
 }
